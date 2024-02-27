@@ -3,7 +3,7 @@ This project encapsulates our team's comprehensive effort for the BAIT 509 cours
 
 **Project Overview:**
 
-This project is centered around developing a machine learning model to address the business problem of Kickstarter Project. The project explores various data preprocessing techniques, feature engineering, and model selection to achieve optimal performance. The project compares several machine learning models, including Decision Trees, Random Forests, and Naive Bayes classifiers, to establish a baseline and benchmark performance. A particular focus is given to model interpretability and computational efficiency, making the Decision Tree model the choice for deployment.
+Our core aim was to harness machine learning to predict the success of Kickstarter campaigns by analyzing a multitude of factors, including project features, funding objectives, and prevailing market dynamics. The project explores various data preprocessing techniques, feature engineering, and model selection to achieve optimal performance. The project compares several machine learning models, including Decision Trees, Random Forests, and Naive Bayes classifiers, to establish a baseline and benchmark performance. A particular focus is given to model interpretability and computational efficiency, making the Decision Tree model the choice for deployment.
 
 **Data Utilized:**
 
