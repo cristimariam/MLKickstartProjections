@@ -20,5 +20,5 @@ The project was brought to fruition through the collaborative efforts of Christi
 
 **Acknowledgments:**
 
-Special thanks to Professor Quan Nguyen for their mentorship and guidance throughout this project. We also acknowledge the contributions from the UBC Master of Business Analytics program and the resources provided by the BAIT 509 course, which were instrumental in the completion of this project.
+Special thanks to Quan Nguyen and  for his mentorship and guidance throughout this project. We also acknowledge the contributions from the UBC Master of Business Analytics program and the resources provided by the BAIT 509 course, which were instrumental in the completion of this project.
 
