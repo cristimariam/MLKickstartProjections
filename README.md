@@ -3,7 +3,7 @@ This project encapsulates our team's comprehensive effort for the BAIT 509 cours
 
 **Project Overview:**
 
-Our core aim was to harness machine learning to predict the success of Kickstarter campaigns by analyzing a multitude of factors, including project features, funding objectives, and prevailing market dynamics.
+This project is centered around developing a machine learning model to address the business problem of Kickstarter Project. The project explores various data preprocessing techniques, feature engineering, and model selection to achieve optimal performance. The project compares several machine learning models, including Decision Trees, Random Forests, and Naive Bayes classifiers, to establish a baseline and benchmark performance. A particular focus is given to model interpretability and computational efficiency, making the Decision Tree model the choice for deployment.
 
 **Data Utilized:**
 
@@ -14,11 +14,12 @@ We leveraged one principal datasets: 'ks-projects-201801.csv', containing detail
 - **ML_Analysis.ipynb**: A comprehensive Jupyter notebook divided into sections for exploratory data analysis, feature engineering, model training/testing, and outcome prediction.
 - **Project_Report.pdf**: A detailed document that walks through the methodology, data preprocessing, model selection, and analysis results, enriched with insightful visuals and charts.
 
+
 **Contributors:**
 
 The project was brought to fruition through the collaborative efforts of Christi Mariam Denny, Daksh Arora, Robbie Wu and Xuhua Luo, leveraging our diverse backgrounds and expertise in data science and analytics.
 
 **Acknowledgments:**
 
-Special thanks to Quan Nguyen and  for his mentorship and guidance throughout this project. We also acknowledge the contributions from the UBC Master of Business Analytics program and the resources provided by the BAIT 509 course, which were instrumental in the completion of this project.
+Special thanks to the instructor Quan Nguyen and the teaching assistant Julian for the consistent guidance and help.  We also acknowledge the contributions from the UBC Master of Business Analytics program and the resources provided by the BAIT 509 course, which were instrumental in the completion of this project.
 
